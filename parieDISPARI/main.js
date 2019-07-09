@@ -26,9 +26,9 @@ var risultatoparita = paridispari (5);
 console.log(risultatoparita);
 
 if (sceltapd == risultatoparita) {
-  document.getElementById('my_id').innerHTML = "ha vinto il pari";
+  document.getElementById('my_id').innerHTML = "hai vinto!!!";
 } else {
-  document.getElementById('my_id').innerHTML = "ha vinto il dispari";
+  document.getElementById('my_id').innerHTML = "hai perso!!!";
 }
 // var risultatoparita = paridispari(numutente);
 //
